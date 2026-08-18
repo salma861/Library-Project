@@ -1,3 +1,5 @@
-Add combined library data
-Clean library data
-Add data integrity report
+f6f5ee1 Add combined library data
+017e34b Clean library data
+17d2b96 Add data integrity report
+fbf10fe Add git log
+611b2c7 Add fairness reflection
